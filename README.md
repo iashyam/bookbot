@@ -1,3 +1,3 @@
-# Bookbot cli in python
+# bookbot
 
-- intial commit from the local.
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
